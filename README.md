@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Th30N1k
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning kubernetes, docker, helm charts, 
+- 🌱 I’m currently learning kubernetes, docker, helm charts and anything devops related
 - 💞️ I’m looking to collaborate on linux
 - 📫 How to reach me ...
 
